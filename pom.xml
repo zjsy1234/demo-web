@@ -6,7 +6,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.1.6.RELEASE</version>
-        <relativePath/> <!-- lookup parent from repository  1111-->
+        <relativePath/> <!-- lookup parent from repository  1111ceshi数据库-->
     </parent>
     <groupId>com.tj</groupId>
     <artifactId>demo-web</artifactId>
